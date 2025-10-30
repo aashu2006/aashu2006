@@ -37,11 +37,7 @@
 ### 📊 GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aashu2006&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashu2006&theme=radical&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashu2006&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=aashu2006&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
