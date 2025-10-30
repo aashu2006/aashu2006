@@ -37,9 +37,13 @@
 ### 📊 GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aashu2006&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&theme=radical&hide_border=true" height="250"/>
-
+  <img src="https://github-readme-streak-stats.vercel.app?user=aashu2006&theme=radical&hide_border=true" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashu2006&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
 
 ---
 
