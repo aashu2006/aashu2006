@@ -1,45 +1,63 @@
-# 👋 Hey there, I am Akshat Patil!
+<!-- Aashu's GitHub Profile README -->
 
-🎓 Engineering student at **Polaris School of Technology**  
-💡 Passionate about building projects that mix **logic, creativity, and clean design**  
-💻 Currently diving deeper into **Web Development** with **Python, Flask, HTML, CSS, and JavaScript**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Hey+there!+I'm+Akshat+Patil;Engineering+Student+%7C+Web+Developer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+</h1>
 
----
-
-## 🧠 Tech Stack
-
-| Category | Tools & Languages |
-|-----------|------------------|
-| 💻 Languages | Python, JavaScript, HTML, CSS |
-| ⚙️ Frameworks | Flask |
-| 🧰 Tools | Git, GitHub, VS Code, WSL |
+<p align="center">🚀 Engineering student • 💻 Web Dev Learner • 🌱 Exploring Flask & JS</p>
 
 ---
 
-## 🚀 What I’m Currently Working On
-- Improving my **frontend & Flask** skills  
-- Building small but powerful **real-world projects**  
-- Learning to write **clean, readable, and reusable code**  
+### 🧩 About Me
+- 🎓 Studying at **Polaris School of Technology**  
+- ⚙️ Learning **Python, Flask, HTML, CSS, JavaScript**  
+- 🧠 Curious about how small projects grow into real-world applications  
+- ✨ Love creating things that look good *and* make sense  
 
 ---
 
-## 🎯 Goals
-- Master **Frontend + Backend** development  
-- Contribute to **open-source projects**  
-- Build a **personal portfolio website** to showcase my projects  
+### 🧠 Tech Toolbox
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-![Aashu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashu2006&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu2006&layout=compact&theme=tokyonight&hide_border=true)
+### ⚡ What I’m Up To
+- 🌐 Building small **Flask-based web apps**  
+- 🧩 Learning **frontend magic** (JS + styling)  
+- 📘 Exploring clean, creative project ideas  
+- ☕ Fuelled by coffee, curiosity & commit messages  
 
 ---
 
-## 💬 Let’s Connect!
+### 📊 GitHub Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashu2006&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashu2006&theme=radical&hide_border=true" height="150"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/akshatpatil107)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]()
+---
 
---- 
+### 📈 My Contribution Graph
+<p align="center">
+  <a href="https://github.com/aashu2006">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&bg_color=1a1b27&color=70a5fd&line=38bdae&point=f4d35e&area=true&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="www.linkedin.com/in/akshatpatil107"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/814332723619561503"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+<h4 align="center">✨ “Still learning, still curious, and always building something cool.” ✨</h4>
