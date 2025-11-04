@@ -1,24 +1,49 @@
-<!-- Aashu's GitHub Profile README -->
+<!-- 🚀 Aashu's GitHub Profile README -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Hey+there!+I'm+Akshat+Patil;Engineering+Student+%7C+Web+Developer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 </h1>
 
-<p align="center">🚀 Engineering student • 💻 Web Dev Learner • 🌱 Exploring Flask & JS</p>
+<p align="center">
+  🚀 Engineering student • 💻 Web Dev Learner • 🌱 Exploring Flask & JS
+</p>
+
+---
+
+### 🎉 Hacktoberfest 2025 Achievements
+<p align="center">
+  <i>Celebrating open-source contributions and community spirit 🚀</i>
+</p>
+
+<div align="center" style="background-color:#0d1117; padding:15px; border-radius:15px;">
+  <a href="https://holopin.io/@aashu" target="_blank">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="85" style="margin:8px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="85" style="margin:8px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="85" style="margin:8px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="85" style="margin:8px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="85" style="margin:8px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="85" style="margin:8px;"/>
+  </a>
+</div>
+
+<p align="center">
+  <sub><i>💻 Open source isn’t just about code — it’s about collaboration, learning, and giving back.</i></sub>
+</p>
 
 ---
 
 ### 🧩 About Me
-- 🎓 Studying at **Polaris School of Technology**  
-- ⚙️ Learning **Python, Flask, HTML, CSS, JavaScript**  
-- 🧠 Curious about how small projects grow into real-world applications  
-- ✨ Love creating things that look good *and* make sense  
+- 🎓 Student at **Polaris School of Technology**  
+- 💻 Learning **Python**, **Flask**, **HTML**, **CSS**, **JavaScript**  
+- 🔍 Curious about how small ideas turn into real-world web apps  
+- 🎨 Passionate about crafting clean, creative, and functional UI  
+- ☕ Fueled by coffee, curiosity & commits  
 
 ---
 
 ### 🧠 Tech Toolbox
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,19 +52,17 @@
 
 ---
 
-### ⚡ What I’m Up To
-- 🌐 Building small **Flask-based web apps**  
-- 🧩 Learning **frontend magic** (JS + styling)  
-- 📘 Exploring clean, creative project ideas  
-- ☕ Fuelled by coffee, curiosity & commit messages  
+### ⚙️ Current Focus
+- 🧩 Building small **Flask-based projects**  
+- 🌐 Improving **frontend design & JS logic**  
+- 📘 Learning through **real-world challenges**  
+- 🧠 Experimenting with backend + UI integration  
 
 ---
+
 ### 📊 GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aashu2006&show_icons=true&theme=radical&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashu2006&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
@@ -53,7 +76,7 @@
 
 ---
 
-### 📈 My Contribution Graph
+### 📈 Contribution Graph
 <p align="center">
   <a href="https://github.com/aashu2006">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&bg_color=1a1b27&color=70a5fd&line=38bdae&point=f4d35e&area=true&hide_border=true"/>
@@ -64,8 +87,12 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/akshatpatil107"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/814332723619561503"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshatpatil107" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/814332723619561503" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
