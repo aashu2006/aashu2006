@@ -26,6 +26,18 @@
 </p>
 
 ---
+### 🎃 My Hacktoberfest Badges (Holopin)
+<p align="center">
+  [![Badge 0](https://holopin.io/api/badge/cmfqau51h0001l104rxpfnwvt)](https://holopin.io/@aashu2006)
+  [![Badge 1](https://holopin.io/api/badge/cmgjfn69i003tl504bukyc095)](https://holopin.io/@aashu2006)
+  [![Badge 2](https://holopin.io/api/badge/cmhjwdyu4007xjv04y4xz2zq9)](https://holopin.io/@aashu2006)
+  [![Badge 3](https://holopin.io/api/badge/cmhjwegew0081jv04b81jq32e)](https://holopin.io/@aashu2006)
+  [![Badge 4](https://holopin.io/api/badge/cmhjweoa4007jju04e755v126)](https://holopin.io/@aashu2006)
+  [![Badge 5](https://holopin.io/api/badge/cmhjwfn7l007rju04ks90x6sa)](https://holopin.io/@aashu2006)
+  [![Badge 6](https://holopin.io/api/badge/cmh22xxp9006ll904djozq9a0)](https://holopin.io/@aashu2006)
+  [![Super Contributor](https://holopin.io/api/badge/cmhjwf5dp007lju04sal9tndc)](https://holopin.io/@aashu2006)
+</p>
+
 
 ### ⚡ What I’m Up To
 - 🌐 Building small **Flask-based web apps**  
