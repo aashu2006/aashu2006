@@ -26,18 +26,6 @@
 </p>
 
 ---
-### 🎃 My Hacktoberfest Badges (Holopin)
-<p align="center">
-  [![Level 0](https://assets.holopin.io/hf2025levels/lvl0-human.webp)](https://holopin.io/@aashu2006)
-  [![Level 1](https://assets.holopin.io/hf2025levels/lvl1-human.webp)](https://holopin.io/@aashu2006)
-  [![Level 2](https://assets.holopin.io/hf2025levels/lvl2-human.webp)](https://holopin.io/@aashu2006)
-  [![Level 3](https://assets.holopin.io/hf2025levels/lvl3-human.webp)](https://holopin.io/@aashu2006)
-  [![Level 4](https://assets.holopin.io/hf2025levels/lvl4-human.webp)](https://holopin.io/@aashu2006)
-  [![Super Contributor](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://holopin.io/@aashu2006)
-</p>
-
-
-
 
 ### ⚡ What I’m Up To
 - 🌐 Building small **Flask-based web apps**  
