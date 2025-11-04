@@ -33,10 +33,9 @@
   [![Level 2](https://assets.holopin.io/hf2025levels/lvl2-human.webp)](https://holopin.io/@aashu2006)
   [![Level 3](https://assets.holopin.io/hf2025levels/lvl3-human.webp)](https://holopin.io/@aashu2006)
   [![Level 4](https://assets.holopin.io/hf2025levels/lvl4-human.webp)](https://holopin.io/@aashu2006)
-  [![Badge 5](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://holopin.io/@aashu2006)
-  [![Badge 6](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://holopin.io/@aashu2006)
   [![Super Contributor](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://holopin.io/@aashu2006)
 </p>
+
 
 
 
