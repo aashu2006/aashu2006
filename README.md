@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <sub><i>💻 Contributing taught me more than tutorials ever could.i></sub>
+  <sub><i>💻 Contributing taught me more than tutorials ever could.<i></sub>
 </p>
 
 ---
