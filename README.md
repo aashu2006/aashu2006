@@ -12,7 +12,7 @@
 
 ### 🎉 Hacktoberfest 2025 Achievements
 <p align="center">
-  <i>Celebrating open-source contributions and community spirit 🚀</i>
+  <i>Small steps in open source — big lessons every time 🚀</i>
 </p>
 
 <div align="center" style="background-color:#0d1117; padding:15px; border-radius:15px;">
@@ -28,17 +28,17 @@
 </div>
 
 <p align="center">
-  <sub><i>💻 Open source isn’t just about code — it’s about collaboration, learning, and giving back.</i></sub>
+  <sub><i>💻 Contributing taught me more than tutorials ever could.i></sub>
 </p>
 
 ---
 
 ### 🧩 About Me
 - 🎓 Student at **Polaris School of Technology**  
-- 💻 Learning **Python**, **Flask**, **HTML**, **CSS**, **JavaScript**  
-- 🔍 Curious about how small ideas turn into real-world web apps  
-- 🎨 Passionate about crafting clean, creative, and functional UI  
-- ☕ Fueled by coffee, curiosity & commits  
+- 💻 Currently learning **Python, Flask, HTML, CSS, and JavaScript**  
+- 🚀 Love building things that actually *work* and *look good*  
+- 🧠 Always curious about how small ideas turn into real web projects  
+- 🎮 When I’m not coding, I’m probably gaming, watching dev content, or debugging for fun (yes, really)   
 
 ---
 
@@ -54,10 +54,10 @@
 ---
 
 ### ⚙️ Current Focus
-- 🧩 Building small **Flask-based projects**  
-- 🌐 Improving **frontend design & JS logic**  
-- 📘 Learning through **real-world challenges**  
-- 🧠 Experimenting with backend + UI integration  
+- 🧩 Building small **Flask apps** to sharpen backend logic  
+- 🎨 Working on better UI design — making things *feel* nice, not just *work*  
+- 📚 Learning from projects, not just tutorials  
+- ☕ Chai + code = therapy  
 
 ---
 
@@ -98,4 +98,4 @@
 
 ---
 
-<h4 align="center">✨ “Still learning, still curious, and always building something cool.” ✨</h4>
+<h4 align="center">✨ “Still learning, still building, and having fun doing it.” ✨</h4>
