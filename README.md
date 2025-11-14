@@ -16,7 +16,7 @@
 </p>
 
 <div align="center" style="background-color:#0d1117; padding:15px; border-radius:15px;">
-  <a href="https://holopin.io/@aashu" target="_blank">
+  <a href="https://holopin.io/@aashu2006" target="_blank">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="85" style="margin:8px;"/>
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="85" alt="Hacktoberfest Badge"/>
     <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="85" style="margin:8px;"/>
