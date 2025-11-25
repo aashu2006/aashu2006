@@ -34,8 +34,7 @@
 ---
 
 ### 🧩 About Me
-- 🎓 Student at **Polaris School of Technology**  
-- 💻 Currently learning **Python, Flask, HTML, CSS, and JavaScript**  
+- 💻 Currently learning **Python, Flask, Flutter, HTML, CSS, and JavaScript**  
 - 🚀 Love building things that actually *work* and *look good*  
 - 🧠 Always curious about how small ideas turn into real web projects  
 - 🎮 When I’m not coding, I’m probably gaming, watching dev content, or debugging for fun (yes, really)   
