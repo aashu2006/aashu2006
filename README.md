@@ -1,8 +1,20 @@
 <!-- 🚀 Aashu's GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Hey+there!+I'm+Akshat+Patil;Engineering+Student+%7C+Web+Developer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com
+      ?font=JetBrains+Mono
+      &size=30
+      &pause=1000
+      &color=38BDF8
+      &center=true
+      &vCenter=true
+      &width=420
+      &lines=Akshat+Patil;Web+Developer;Creating+Stuff"
+    alt="Typing SVG"
+  />
 </h1>
+
 
 <p align="center">
    Engineering student •  Web Dev Learner •  Exploring Stuff
