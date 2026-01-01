@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Activity Graph
+###  GitHub Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&theme=github-compact)
 
 
@@ -73,15 +73,27 @@
 
 
 
-### 🌍 Connect With Me
+###  Connect With Me
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/akshatpatil107" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discordapp.com/users/814332723619561503" target="_blank">
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</p>
 
 ---
 
