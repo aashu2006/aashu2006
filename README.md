@@ -65,18 +65,10 @@
 ---
 
 ### 📊 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashu2006&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashu2006&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
+![Followers](https://img.shields.io/github/followers/aashu2006?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/aashu2006?style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/aashu2006?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashu2006&theme=radical&no-frame=true&no-bg=true&margin-w=8" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashu2006&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
 
 ---
 
