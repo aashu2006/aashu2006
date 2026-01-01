@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  🚀 Engineering student • 💻 Web Dev Learner • 🌱 Exploring Flask & JS
+   Engineering student •  Web Dev Learner •  Exploring Stuff
 </p>
 
 ---
@@ -33,15 +33,15 @@
 
 ---
 
-### 🧩 About Me
-- 💻 Currently learning **Python, Flask, Flutter, HTML, CSS, and JavaScript**  
-- 🚀 Love building things that actually *work* and *look good*  
-- 🧠 Always curious about how small ideas turn into real web projects  
-- 🎮 When I’m not coding, I’m probably gaming, watching dev content, or debugging for fun (yes, really)   
+###  About Me
+-  Currently learning **Python, Flask, Flutter, HTML, CSS, and JavaScript**  
+-  Love building things that actually *work* and *look good*  
+-  Always curious about how small ideas turn into real web projects  
+-  When I’m not coding, I’m probably gaming, watching dev content, or debugging for fun (yes, really)   
 
 ---
 
-### 🧠 Tech Toolbox
+###  Tech Toolbox
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -56,11 +56,10 @@
 
 ---
 
-### ⚙️ Current Focus
-- 🧩 Building small **Flask apps** to sharpen backend logic  
-- 🎨 Working on better UI design — making things *feel* nice, not just *work*  
-- 📚 Learning from projects, not just tutorials  
-- ☕ Chai + code = therapy  
+###  Current Focus
+-  Building small projects to sharpen developer skills.
+-  Working on better UI design — making things *feel* nice, not just *work*  
+-  Learning from projects, not just tutorials   
 
 ---
 
@@ -92,4 +91,3 @@
 
 ---
 
-<h4 align="center">✨ “Still learning, still building, and having fun doing it.” ✨</h4>
