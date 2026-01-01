@@ -10,9 +10,9 @@
 
 ---
 
-### 🎉 Hacktoberfest 2025 Achievements
+###  Hacktoberfest 2025 Achievements
 <p align="center">
-  <i>Small steps in open source — big lessons every time 🚀</i>
+  <i>Small steps in open source — big lessons every time </i>
 </p>
 
 <div align="center" style="background-color:#0d1117; padding:15px; border-radius:15px;">
