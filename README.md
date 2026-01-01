@@ -71,14 +71,7 @@
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <a href="https://github.com/aashu2006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&bg_color=1a1b27&color=70a5fd&line=38bdae&point=f4d35e&area=true&hide_border=true"/>
-  </a>
-</p>
 
----
 
 ### 🌍 Connect With Me
 <p align="center">
