@@ -64,10 +64,9 @@
 
 ---
 
-### 📊 GitHub Snapshot
-![Followers](https://img.shields.io/github/followers/aashu2006?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/aashu2006?style=for-the-badge)
-![Repos](https://img.shields.io/github/repos/aashu2006?style=for-the-badge)
+### 📊 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&theme=github-compact)
+
 
 
 ---
