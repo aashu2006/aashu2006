@@ -1,7 +1,7 @@
 <!-- 🚀 Aashu's GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Akshat+Patil;Web+Developer;Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Akshat+Patil;Web+Developer;Creating+Stuff" alt="Typing SVG" />
 </h1>
 
 
