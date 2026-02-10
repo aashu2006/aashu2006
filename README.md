@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Akshat%20Patil&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Akshat+Patil;Open+Source+Contributor;I+Build+and+Contribute" />
 </p>
 
 <p align="center">
