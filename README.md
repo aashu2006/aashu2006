@@ -13,8 +13,7 @@
 - I learn by building, breaking, and fixing things
 
 ### Open Source Contributor
-- **25+ merged pull requests** in open-source projects
-- I contribute all year, not just during Hacktoberfest
+- **20+ merged pull requests** in open-source projects
 - Mostly work on bug fixes, small features, and improvements
 - Comfortable with issues, PRs, and reviews
 
