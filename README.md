@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#fff;text-shadow:0 0 12px #38BDF8;">
-  Akshat Patil
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Akshat%20Patil&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   Open-source contributor • Engineering student • Web developer
