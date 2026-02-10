@@ -8,7 +8,7 @@
 
 ### About Me
 - Engineering student who likes building things and contributing to open source
-- I work with **Python, Flask, Flutter, HTML/CSS, and JavaScript**
+- I work with **Python, React, Flask, Flutter, HTML/CSS, and JavaScript**
 - I care about clean code and simple solutions
 - I learn by building, breaking, and fixing things
 
@@ -39,7 +39,7 @@
 
 ### Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,flutter,dart,postgres,html,css,js,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,flask,flutter,dart,postgres,html,css,js,git,github,linux&theme=dark" />
 </p>
 
 ### Open Source Milestones
