@@ -16,7 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashu2006&theme=github-compact&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashu2006/aashu2006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashu2006/aashu2006/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/aashu2006/aashu2006/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
