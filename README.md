@@ -4,7 +4,7 @@
 </p>
 
 **some things i've shipped**
-- [p5.js Eyedropper PoC](https://github.com/aashu2006/p5-web-editor-eyedropper-poc) - real time pixel inspector for WebGL canvas
+- [p5.js Eyedropper](https://github.com/aashu2006/p5-web-editor-eyedropper-poc) - real time pixel inspector for WebGL canvas
 - [Split-It-Wise](https://github.com/aashu2006/Split-It-Wise) - expense splitting app
 - [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis and visualization tool
 
