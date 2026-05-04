@@ -9,7 +9,13 @@
 - [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis and visualization tool
 
 **processing foundation**
-25+ merged PRs · steward in v2.2.2 and v2.2.3
+25+ merged PRs · p5.js core lib, the website and the web-editor · steward in v2.2.2, v2.2.3
+
+**kubestellar**
+10+ merged PRs · top 3 in the contributor leaderboard
+
+**hiero-ledger**
+10+ merged PRs · across the heiro-sdk-cpp and heiro-website
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,p5js,python,html,css,git,github,linux&theme=dark" />
