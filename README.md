@@ -9,7 +9,7 @@
 - [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis and visualization tool
 
 **processing foundation**
-20+ merged PRs · steward in v2.2.2 · RC tester in v2.2.3
+25+ merged PRs · steward in v2.2.2 and v2.2.3
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,p5js,python,html,css,git,github,linux&theme=dark" />
