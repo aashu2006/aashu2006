@@ -1,24 +1,27 @@
 <p align="center">
   <b>Hey, akshat here</b><br/>
-  <sub>cs undergrad · builder · open source contributor</sub>
+  <sub>cs undergrad · open source contributor · processing foundation micrograntee '26</sub>
 </p>
 
 **some things i've shipped**
-- [p5.js Eyedropper](https://github.com/aashu2006/p5-web-editor-eyedropper-poc) - real time pixel inspector for WebGL canvas
+- p5.strands contributions - WebGL, WebGPU, instancing, transpilation, testing infrastructure
 - [Split-It-Wise](https://github.com/aashu2006/Split-It-Wise) - expense splitting app
 - [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis and visualization tool
 
+**featured**
+- Processing Foundation OSS Micrograntee '26 · Beginner-Friendly Instancing API for p5.strands
+
 **processing foundation**
-25+ merged PRs · p5.js core lib, the website and the web-editor · steward in v2.2.2, v2.2.3
+25+ merged PRs · p5.js core lib, the website and the web-editor · micrograntee '26 
+
+**hiero-ledger**
+15+ merged PRs · across the heiro-sdk-cpp and heiro-website
 
 **kubestellar**
 10+ merged PRs · top 3 in the contributor leaderboard
 
-**hiero-ledger**
-10+ merged PRs · across the heiro-sdk-cpp and heiro-website
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,p5js,python,html,css,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,p5js,python,html,css,git,github,linux&theme=dark" />
 </p>
 
 <p align="center">
