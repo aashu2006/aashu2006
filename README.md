@@ -18,7 +18,7 @@
 15+ merged PRs · across the heiro-sdk-cpp and heiro-website
 
 **kubestellar**
-10+ merged PRs · top 3 in the contributor leaderboard
+10+ merged PRs · 500+ bugs reported · top 3 in the contributor leaderboard
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,p5js,python,html,css,git,github,linux&theme=dark" />
