@@ -12,7 +12,7 @@
 - Processing Foundation OSS Micrograntee '26 · Beginner-Friendly Instancing API for p5.strands
 
 **processing foundation**
-25+ merged PRs · p5.js core lib, the website and the web-editor · micrograntee '26 
+30+ merged PRs · p5.js core lib, the website and the web-editor · micrograntee '26 
 
 **hiero-ledger**
 15+ merged PRs · across the heiro-sdk-cpp and heiro-website
