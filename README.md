@@ -1,24 +1,24 @@
 <p align="center">
   <b>Hey, akshat here</b><br/>
-  <sub>cs undergrad · open source contributor · processing foundation micrograntee '26</sub>
+  <sub>p5.js steward · cs undergrad · learning AI systems</sub>
 </p>
 
+**currently**
+- p5.js steward - maintaining core, website & web editor
+- learning llms, ai agents, and modern ai systems
+
 **some things i've shipped**
-- p5.strands contributions - WebGL, WebGPU, instancing, transpilation, testing infrastructure
-- [Split-It-Wise](https://github.com/aashu2006/Split-It-Wise) - expense splitting app
-- [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis and visualization tool
+- beginner-friendly instancing API for p5.strands (p5.js 2.x)
+- [Split-It-Wise](https://github.com/aashu2006/Split-It-Wise) - expense splitting app, used daily by my hostel floor
+- [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis & visualization tool
 
-**featured**
-- Processing Foundation OSS Micrograntee '26 · Beginner-Friendly Instancing API for p5.strands
+**open source**
 
-**processing foundation**
-30+ merged PRs · p5.js core lib, the website and the web-editor · micrograntee '26 
+`p5.js` - Processing Foundation OSS Micrograntee '26 · Steward · 30+ merged PRs across core, website & web editor · WebGL/WebGPU
 
-**hiero-ledger**
-15+ merged PRs · across the heiro-sdk-cpp and heiro-website
+`kubestellar` - 10+ merged PRs · 500+ bugs reported · Admiral badge · top 3 on the contributor leaderboard 
 
-**kubestellar**
-10+ merged PRs · 500+ bugs reported · top 3 in the contributor leaderboard
+`hiero-ledger` - 15+ merged PRs across hiero-sdk-cpp and hiero-website
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,p5js,python,html,css,git,github,linux&theme=dark" />
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <sub>where it all started 👇</sub><br/><br />
+  <sub>where it all started</sub><br/><br />
   <a href="https://holopin.io/@aashu2006">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="60"/>
     <img width="60" src="https://github.com/user-attachments/assets/1d41ae8e-8194-43d3-a67b-016da79ef7b2"/>
