@@ -21,7 +21,7 @@
 `hiero-ledger` - 15+ merged PRs across hiero-sdk-cpp and hiero-website
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,p5js,python,html,css,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,docker,p5js,python,html,css,git,github,linux&theme=dark" />
 </p>
 
 <p align="center">
