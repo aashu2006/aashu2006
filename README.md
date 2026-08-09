@@ -3,22 +3,25 @@
   <sub>p5.js steward · cs undergrad · learning AI systems</sub>
 </p>
 
+**about**
+- 2nd year b.tech cse (ai/ml) @ bengaluru, graduating 2029
+- i build and maintain open source, mostly graphics (webgl/webgpu) and cloud native stuff
+- open to swe / open source / ai-adjacent internships. reach out via email or discord below
+
 **currently**
 - p5.js steward - maintaining core, website & web editor
+- processing foundation oss micrograntee '26 - building instancing api for p5.strands (p5.js 2.4)
 - learning llms, ai agents, and modern ai systems
 
+**experience & achievements**
+- **p5.js (processing foundation)** - steward · oss micrograntee 2026 · 30+ merged PRs across core, website & web editor · webgl/webgpu focus
+- **kubestellar (cncf)** - top 3 on contributor leaderboard · admiral badge · 10+ merged PRs · 500+ verified bugs reported
+- **hiero-ledger (lf decentralized trust)** - 15+ merged PRs across hiero-sdk-cpp and hiero-website
+
 **some things i've shipped**
-- beginner-friendly instancing API for p5.strands (p5.js 2.x)
+- beginner-friendly instancing API for p5.strands (p5.js 2.4)
 - [Split-It-Wise](https://github.com/aashu2006/Split-It-Wise) - expense splitting app, used daily by my hostel floor
 - [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis & visualization tool
-
-**open source**
-
-`p5.js` - Processing Foundation OSS Micrograntee '26 · Steward · 30+ merged PRs across core, website & web editor · WebGL/WebGPU
-
-`kubestellar` - 10+ merged PRs · 500+ bugs reported · Admiral badge · top 3 on the contributor leaderboard 
-
-`hiero-ledger` - 15+ merged PRs across hiero-sdk-cpp and hiero-website
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,docker,p5js,python,html,css,git,github,linux&theme=dark" />
@@ -47,9 +50,9 @@
 </p>
 
 **connect**
-
 <p align="center">
   <a href="https://x.com/softaspause"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
   <a href="mailto:akshatp439@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
   <a href="https://discordapp.com/users/aashuzz2006"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+  <a href="https://www.linkedin.com/in/akshatpatil107/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </p>
