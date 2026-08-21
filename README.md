@@ -20,8 +20,8 @@
 
 **some things i've shipped**
 - beginner-friendly instancing API for p5.strands (p5.js 2.4)
-- [Split-It-Wise](https://github.com/aashu2006/Split-It-Wise) - expense splitting app, used daily by my hostel floor
-- [File-Lens](https://github.com/aashu2006/File-Lens) - storage analysis & visualization tool
+- [split-it-wise](https://github.com/aashu2006/split-it-wise) · [live](https://split-it-wise.vercel.app) - expense splitting app, used daily by my hostel floor
+- [file-lens](https://github.com/aashu2006/file-lens) · [live](https://filelens.vercel.app) - storage analysis & visualization tool
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,docker,p5js,python,html,css,git,github,linux&theme=dark" />
