@@ -1,38 +1,36 @@
 <p align="center">
   <b>Hey, akshat here</b><br/>
-  <sub>p5.js steward · cs undergrad · learning AI systems</sub>
+  <sub>micrograntee '26 @processing · p5.js steward · cs undergrad · learning AI systems</sub><br/>
+  <sub><a href="https://akshatpatil.vercel.app">wanna know more about me</a></sub>
 </p>
 
 **about**
-- 2nd year b.tech cse (ai/ml) @ bengaluru, graduating 2029
-- i build and maintain open source, mostly graphics (webgl/webgpu) and cloud native stuff
-- open to swe / open source / ai-adjacent internships. reach out via email or discord below
-
-**currently**
-- p5.js steward - maintaining core, website & web editor
-- processing foundation oss micrograntee '26 - building instancing api for p5.strands (p5.js 2.4)
-- learning llms, ai agents, and modern ai systems
+- sophomore b.tech cse @ bengaluru, graduating 2029
+- currently going deep on ml and ai systems - llms, agents, and the maths under them
+- i build and maintain open source for processing, kubestellar, hiero-ledger, risc-v
 
 **experience & achievements**
-- **p5.js (processing foundation)** - steward · oss micrograntee 2026 · 30+ merged PRs across core, website & web editor · webgl/webgpu focus
-- **kubestellar (cncf)** - top 3 on contributor leaderboard · admiral badge · 10+ merged PRs · 500+ verified bugs reported
-- **hiero-ledger (lf decentralized trust)** - 15+ merged PRs across hiero-sdk-cpp and hiero-website
+- **p5.js (processing foundation)** - steward · oss micrograntee 2026 · 30+ merged PRs across core, website & web editor · webgl/webgpu focused
+- **kubestellar (cncf)** - top 3 on contributor leaderboard · admiral badge · 500+ verified bugs reported
+- **hiero-ledger (lfdt)** - 15+ merged PRs across hiero-sdk-cpp and hiero-website
+- **risc-v (unified db)** - 7 merged PRs
 
-**some things i've shipped**
-- beginner-friendly instancing API for p5.strands (p5.js 2.4)
-- [split-it-wise](https://github.com/aashu2006/split-it-wise) · [live](https://split-it-wise.vercel.app) - expense splitting app, used daily by my hostel floor
-- [file-lens](https://github.com/aashu2006/file-lens) · [live](https://filelens.vercel.app) - storage analysis & visualization tool
+**some things I've shipped**
+ 
+- instancing API for p5.strands, merged into p5.js core. `instances(n).sphere()` and you get a forest
+- gpu compute dispatch that auto-spreads 1D workloads across 2D, 1M+ particle sims
+- [file-lens](https://filelens.vercel.app) is a storage analyzer, only metadata hits the server
+- [split-it-wise](https://split-it-wise.vercel.app) is an expense splitter, used daily by my hostel floor
+- [docrag](https://github.com/aashu2006/docrag) is a document retrieval pipeline, chunking + embeddings + reranking
+- [paro studio](https://parostudio.vercel.app) is an ai image gallery, every image ships with its prompt
+
+**writing**
+ 
+- [drawing a forest in one line: instancing in p5.strands](https://processingfoundation.org) - processing foundation, aug 2026
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,docker,p5js,python,html,css,git,github,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashu2006/aashu2006/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashu2006/aashu2006/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/aashu2006/aashu2006/output/github-snake.svg" />
-  </picture>
+  <img alt="js, python, go, react, next.js, redux, node.js, express, tailwind, vite, p5.js, tensorflow, scikit-learn, postgres, supabase, firebase, mongodb, mysql, kubernetes, docker, linux, git, github, vercel" src="https://skillicons.dev/icons?i=js,python,go,react,nextjs,redux,nodejs,express,tailwind,vite,p5js,tensorflow,sklearn,postgres,supabase,firebase,mongodb,mysql,kubernetes,docker,linux,git,github,vercel&theme=dark&perline=14" />
 </p>
 
 <p align="center">
