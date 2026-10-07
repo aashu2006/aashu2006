@@ -1,36 +1,38 @@
 <p align="center">
   <b>Hey, akshat here</b><br/>
-  <sub>micrograntee '26 @processing · p5.js steward · cs undergrad · learning AI systems</sub><br/>
-  <sub><a href="https://akshatpatil.vercel.app">wanna know more about me</a></sub>
+  <sub>19 · Micrograntee '26 @Processing Foundation · p5.js Steward · Building AI Systems</sub><br/>
+  <sub><a href="https://akshatpatil.me">wanna know more about me</a></sub>
 </p>
 
 **about**
-- sophomore b.tech cse @ bengaluru, graduating 2029
-- currently going deep on ml and ai systems - llms, agents, and the maths under them
-- i build and maintain open source for processing, kubestellar, hiero-ledger, risc-v
+- sophomore b.tech cse @ bengaluru, graduating 2029. going deeper on ml and ai systems
+- maintaining p5.js and paro studio. contributing to greedybear and nano collective
 
 **experience & achievements**
-- **p5.js (processing foundation)** - steward · oss micrograntee 2026 · 30+ merged PRs across core, website & web editor · webgl/webgpu focused
-- **kubestellar (cncf)** - top 3 on contributor leaderboard · admiral badge · 500+ verified bugs reported
-- **hiero-ledger (lfdt)** - 15+ merged PRs across hiero-sdk-cpp and hiero-website
-- **risc-v (unified db)** - 7 merged PRs
+- **p5.js (processing foundation)** - org member · webgpu steward
+  - 35+ merged PRs across core, website & web editor
+  - review PRs in core
+- **kubestellar (cncf)** - #3 on contributor leaderboard · admiral badge · 500+ verified bugs reported
+- **also contributed to** - hiero-ledger · risc-v unified db · nanocoder · greedybear (honeynet)
+- **programs** - processing foundation oss microgrants '26 · mintlify oss '26 · anthropic open source program
 
 **some things I've shipped**
- 
-- instancing API for p5.strands, merged into p5.js core. `instances(n).sphere()` and you get a forest
-- gpu compute dispatch that auto-spreads 1D workloads across 2D, 1M+ particle sims
+
+- instancing api for p5.strands, merged into p5.js core. `instances(n).sphere()` and you get a forest
+- [quoteforge](https://github.com/aashu2006/quoteforge) is an ai quoting agent for fabrication shops. enquiry in, quote pdf out, owner approves before it goes
+- [dune](https://main.ds3vblvj49p71.amplifyapp.com/) is a codebase map for ai agents. ask "where do I change this" and it points you there. built with my team in a hackathon
+- [lookout](https://lookout-dusky.vercel.app) is a url health monitor, got a hot query from 50ms to 0.5ms
+- [split-it-wise](https://split-it-wise.vercel.app) is an expense splitter, used daily by ~20 people on my hostel floor
 - [file-lens](https://filelens.vercel.app) is a storage analyzer, only metadata hits the server
-- [split-it-wise](https://split-it-wise.vercel.app) is an expense splitter, used daily by my hostel floor
 - [docrag](https://github.com/aashu2006/docrag) is a document retrieval pipeline, chunking + embeddings + reranking
-- [paro studio](https://parostudio.vercel.app) is an ai image gallery, every image ships with its prompt
+- [paro-studio](https://parostudios.in) is an ai image gallery where every image ships with its prompt. co-maintained, android app in the works
 
 **writing**
- 
-- [drawing a forest in one line: instancing in p5.strands](https://processingfoundation.org) - processing foundation, aug 2026
 
+- [drawing a forest in one line: instancing in p5.strands](https://medium.com/processing-foundation/drawing-a-forest-in-one-line-a-preview-of-instancing-in-p5-strands-a2e93f9c9e04) - processing foundation, aug 2026
 
 <p align="center">
-  <img alt="js, python, go, react, next.js, redux, node.js, express, tailwind, vite, p5.js, tensorflow, scikit-learn, postgres, supabase, firebase, mongodb, mysql, kubernetes, docker, linux, git, github, vercel" src="https://skillicons.dev/icons?i=js,python,go,react,nextjs,redux,nodejs,express,tailwind,vite,p5js,tensorflow,sklearn,postgres,supabase,firebase,mongodb,mysql,kubernetes,docker,linux,git,github,vercel&theme=dark&perline=14" />
+  <img alt="js, python, go, react, next.js, redux, node.js, express, vite, p5.js, tensorflow, scikit-learn, postgres, prisma, redis, supabase, firebase, mongodb, mysql, aws, kubernetes, docker, linux, git, github, vercel" src="https://skillicons.dev/icons?i=js,python,go,react,nextjs,redux,nodejs,express,vite,p5js,tensorflow,sklearn,postgres,prisma,redis,supabase,firebase,mongodb,mysql,aws,kubernetes,docker,linux,git,github,vercel&theme=dark&perline=13" />
 </p>
 
 <p align="center">
