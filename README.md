@@ -1,31 +1,32 @@
 <p align="center">
   <b>Hey, akshat here</b><br/>
-  <sub>19 · Micrograntee '26 @Processing Foundation · p5.js Steward · Building AI Systems</sub><br/>
+  <sub>20 · Full Stack Intern @StayIn · Developer in Residence & Software Grantee @p5.js · Building AI Systems</sub><br/>
   <sub><a href="https://akshatpatil.me">wanna know more about me</a></sub>
 </p>
 
 **about**
-- sophomore b.tech cse @ bengaluru, graduating 2029. going deeper on ml and ai systems
-- maintaining p5.js and paro studio. contributing to greedybear and nano collective
+- sophomore b.tech cse @ bengaluru, graduating 2029
+- going deeper on ml and ai systems
+- working on p5.js and [paro-studio](https://parostudios.in)
 
 **experience & achievements**
-- **p5.js (processing foundation)** - org member · webgpu steward
-  - 35+ merged PRs across core, website & web editor
+- **stayin** - full stack developer intern, since nov '26
+- **p5.js (processing foundation)** - developer in residence for p5.js 2.6 · org member
+  - working on shapes & colors performance for the 2.6 release
+  - 40+ merged PRs across core, website & web editor
   - review PRs in core
-- **kubestellar (cncf)** - #3 on contributor leaderboard · admiral badge · 500+ verified bugs reported
+- **kubestellar (cncf)** - admiral badge · 500+ verified bugs reported
 - **also contributed to** - hiero-ledger · risc-v unified db · nanocoder · greedybear (honeynet)
-- **programs** - processing foundation oss microgrants '26 · mintlify oss '26 · anthropic open source program
+- **programs** - processing foundation software grant '26 · mintlify oss '26 · anthropic open source program
 
 **some things I've shipped**
 
-- instancing api for p5.strands, merged into p5.js core. `instances(n).sphere()` and you get a forest
-- [quoteforge](https://github.com/aashu2006/quoteforge) is an ai quoting agent for fabrication shops. enquiry in, quote pdf out, owner approves before it goes
-- [dune](https://main.ds3vblvj49p71.amplifyapp.com/) is a codebase map for ai agents. ask "where do I change this" and it points you there. built with my team in a hackathon
-- [lookout](https://lookout-dusky.vercel.app) is a url health monitor, got a hot query from 50ms to 0.5ms
+- [instancing api for p5.strands](https://github.com/processing/p5.js/releases/tag/v2.4.0-rc.1), built under the processing foundation microgrant and shipped in p5.js 2.4. `instances(n).sphere()` and you get a forest
 - [split-it-wise](https://split-it-wise.vercel.app) is an expense splitter, used daily by ~20 people on my hostel floor
-- [file-lens](https://filelens.vercel.app) is a storage analyzer, only metadata hits the server
+- [lookout](https://lookout-dusky.vercel.app) is a url health monitor, got a hot query from 50ms to 0.5ms
+- [dune](https://main.ds3vblvj49p71.amplifyapp.com/) is a codebase map for ai agents. ask "where do I change this" and it points you there. built with my team in a hackathon
 - [docrag](https://github.com/aashu2006/docrag) is a document retrieval pipeline, chunking + embeddings + reranking
-- [paro-studio](https://parostudios.in) is an ai image gallery where every image ships with its prompt. co-maintained, android app in the works
+- [paro-studio](https://parostudios.in) is where good ai design comes with its recipe. premium prompts, ready to copy. android app in the works
 
 **writing**
 
@@ -56,3 +57,5 @@
   <a href="https://discordapp.com/users/aashuzz2006"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
   <a href="https://www.linkedin.com/in/akshatpatil107/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </p>
+
+anything else u feel
