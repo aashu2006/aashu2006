@@ -5,18 +5,14 @@
 </p>
 
 **about**
-- sophomore b.tech cse @ bengaluru, graduating 2029
-- going deeper on ml and ai systems
+- sophomore b.tech cse @ bengaluru, graduating 2029. going deeper on ml and ai systems
+- **currently**: profiling shapes & colors in p5.js for 2.6
 - working on p5.js and [paro-studio](https://parostudios.in)
 
 **experience & achievements**
 - **stayin** - full stack developer intern, since nov '26
 - **p5.js (processing foundation)** - developer in residence for p5.js 2.6 · org member
-  - working on shapes & colors performance for the 2.6 release
-  - 40+ merged PRs across core, website & web editor
-  - review PRs in core
-- **kubestellar (cncf)** - admiral badge · 500+ verified bugs reported
-- **also contributed to** - hiero-ledger · risc-v unified db · nanocoder · greedybear (honeynet)
+- **also contributed to** - kubestellar · hiero-ledger · risc-v unified db · nanocoder · greedybear (honeynet)
 - **programs** - processing foundation software grant '26 · mintlify oss '26 · anthropic open source program
 
 **some things I've shipped**
