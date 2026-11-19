@@ -53,5 +53,3 @@
   <a href="https://discordapp.com/users/aashuzz2006"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
   <a href="https://www.linkedin.com/in/akshatpatil107/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </p>
-
-anything else u feel
